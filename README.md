@@ -62,8 +62,8 @@ Lorem ip sum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor inci
 Just a small change 
 
 ## Chapter by Nora
-LALALALALA
-Here
+
+Lorem Ipsum
 
 ## Chapter by Reagan
 This chapter is sure going to be fun to work on!
