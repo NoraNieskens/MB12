@@ -61,8 +61,8 @@ Here
 Here
 
 ## Chapter by Nora
-LALALALALA
-Here
+
+Lorem Ipsum
 
 ## Chapter by Reagan
 
